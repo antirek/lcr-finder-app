@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/antirek/lcr-finder-app",
   "dependencies": {
-    "lcr-finder": "0.0.2"
+    "lcr-finder": "0.0.3"
   }
 }
